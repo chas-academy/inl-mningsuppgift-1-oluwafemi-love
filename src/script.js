@@ -26,7 +26,7 @@ const contactBook = {
 };
   
   // Ange en grupp 
-  let groupToShow = "arbete";
+  let groupToShow = "familj";
   
 
 
